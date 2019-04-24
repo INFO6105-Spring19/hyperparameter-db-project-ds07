@@ -1,0 +1,5 @@
+,model_id,overwrite_with_best_model,hidden1,hidden2,hidden3,epochs,score_validation_samples,score_duty_cycle,adaptive_rate,rate,rate_annealing,momentum_start,momentum_stable,momentum_ramp,l1,l2,max_w2
+0,DeepLearning_1_AutoML_20190421_193027,FALSE,10,10,10,10.42357223,0,0.1,TRUE,0.005,1.00E-06,0,0,1000000,0,0,3.40E+38
+1,DeepLearning_grid_1_AutoML_20190421_193027_model_1,FALSE,500,0,0,22.4,0,0.1,TRUE,0.005,1.00E-06,0,0,1000000,0,0,3.40E+38
+2,DeepLearning_grid_1_AutoML_20190421_193027_model_2,FALSE,200,0,0,8,0,0.1,TRUE,0.005,1.00E-06,0,0,1000000,0,0,3.40E+38
+3,DeepLearning_grid_1_AutoML_20190421_193027_model_3,FALSE,200,200,0,7.559182531,0,0.1,TRUE,0.005,1.00E-06,0,0,1000000,0,0,3.40E+38
