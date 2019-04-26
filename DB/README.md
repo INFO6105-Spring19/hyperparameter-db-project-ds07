@@ -26,13 +26,13 @@ By storing Hyperparameters data set in the database enables us obtain the struct
 - Yuan Chai : 25% from the website, 75% created by myself
 
 ### Citations
-https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
-https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
-https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a
-https://towardsdatascience.com/hyperparameters-in-deep-learning-927f7b2084dd
-https://www.w3schools.com/sql/sql_create_index.asp
-https://docs.microsoft.com/en-us/sql/t-sql/statements/create-function-transact-sql?view=sql-server-2017
-https://www.w3schools.com/sql/sql_view.asp
+-  https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+-  https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
+-  https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a
+-  https://towardsdatascience.com/hyperparameters-in-deep-learning-927f7b2084dd
+-  https://www.w3schools.com/sql/sql_create_index.asp
+-  https://docs.microsoft.com/en-us/sql/t-sql/statements/create-function-transact-sql?view=sql-server-2017
+-  https://www.w3schools.com/sql/sql_view.asp
 
 ### License
 
