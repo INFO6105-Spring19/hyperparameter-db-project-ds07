@@ -1,12 +1,14 @@
 # Hyperparameter Project
 
 ### Abstract
+
 Hyperparameters are parameters that are specified prior to running machine learning algorithms that have a large effect on the predictive power of statistical models parameter of a prior distribution, the term which used to distinguish them from parameters of the model for the underlying system under analysis. Knowledge of the relative importance of a hyperparameter to an algorithm and its range of values is crucial to hyperparameter tuning and creating effective models.
+
 The hyperparameter database allows users to visualize and understand how to choose hyperparameters that maximize the predictive power of their models. The hyperparameter database is created by running millions of hyperparameter values, calculating the individual conditional expectation of every hyperparameter on the quality of a model. The data science part need to generating models using H2O to find best hyperparameters.
 
+### Introducton
 
-### Background
-The data we collected and stored concerns predicting housing transaction price which contains values of  cities, floors, unit area households counts and parking capacity, rooms, heat fuel, heat type and front door structure. We separated and grouped data into different entities and attributes and build the one-to-many connections between them, which presented the data in more structured and organized way and allows us to query data, sort data, and manipulate data in various ways for the future performance.
+The project is divided in 2 teams: one is data science team which is responsible for generating models using H2O software to find the best hyperparameters, the other one is database team whch needs to create a conceputal model and storing all the data into a physical datbase. From data science end, we are using a module called H2O Auto Machine Learning which will automatically generate the diffenent kinds of the model by adjusting its hyperparameters and rank the models accounting to its metrics.
 
 ### Dataset
 The dataset is from the website https://www.kaggle.com/econdata/predciting-price-transaction#trainPrice.csv . Housing price always been a popular item that people expect to predict. Since it is critical for us to find out the factors that affecting transaction price. This data set covers different aspects of factors which influence the housing price, which requires the scientific and specific method to calculate the best result. 
